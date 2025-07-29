@@ -11,4 +11,4 @@ Approach:
           * And then call the distinct function that stores only the distinct elememts(removes Duplicates) and then convert it back to array.
           * Compare the sizes of the original array and the new array.
           * if size of new array is not equal to original array then, return true
-          * else return false
+          * else return false.
