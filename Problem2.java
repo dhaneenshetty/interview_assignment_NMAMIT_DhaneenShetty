@@ -1,3 +1,4 @@
+/*moves all the zeroes to the end of the array while retaining the order of the non-zero elements*/
 public class Problem2 {
     public int[] moveZero(int[] nums){
         int left=0;
