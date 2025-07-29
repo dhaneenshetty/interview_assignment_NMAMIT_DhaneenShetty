@@ -1,3 +1,4 @@
+/*checks for duplicates in the array and returns true if present and false otherwise*/
 import java.util.stream.IntStream;
 
 public class  Problem1{
