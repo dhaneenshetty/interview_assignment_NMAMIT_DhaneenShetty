@@ -24,3 +24,15 @@ Approach:
 * right pointer used to traverse each element in the array.
 * For every right index, if the element at right is non-zero, then swap it with the element at the left index, Increment the left pointer
 * by the timethe loop ends, all zeros will be shifted to the right side of the array.
+
+Steps to Execute
+* Ensure java is installed.
+* compile both the files of each Problem.
+  * javac Problem1.java
+  * javac Problem1_test.java
+  * javac Problem2.java
+  * javac Problem2_test.java
+* Run the test files
+  * java Problem1_test
+  * java Problem1_test
+
